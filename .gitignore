@@ -26,3 +26,4 @@ encrypted_message.bin
 # Solution files for views assignment (kept local only)
 pipeline/solutions/*
 !pipeline/solutions/extract_edits_solution.ipynb
+pki_homework/ceu_key
